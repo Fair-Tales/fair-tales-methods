@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" id="ce7d03eb3c8540fb9190e36be4dbdd65-0" class="displacy" width="290" height="197.0" direction="ltr" style="max-width: none; height: 197.0px; color: #000000; background: #ffffff; font-family: Arial; direction: ltr">
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="107.0">
+    <tspan class="displacy-word" fill="currentColor" x="50">Oh</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="50">INTJ</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="107.0">
+    <tspan class="displacy-word" fill="currentColor" x="170">no ...</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="170">INTJ</tspan>
+</text>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-ce7d03eb3c8540fb9190e36be4dbdd65-0-0" stroke-width="2px" d="M70,62.0 C70,2.0 170.0,2.0 170.0,62.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-ce7d03eb3c8540fb9190e36be4dbdd65-0-0" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">intj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M170.0,64.0 L178.0,52.0 162.0,52.0" fill="currentColor"/>
+</g>
+</svg>

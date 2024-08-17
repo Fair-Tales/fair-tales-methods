@@ -1,0 +1,1189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en" id="6ac30e0d202d4f67a9c49eb69d063010-0" class="displacy" width="11090" height="497.0" direction="ltr" style="max-width: none; height: 497.0px; color: #000000; background: #ffffff; font-family: Arial; direction: ltr">
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="50">“</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="50">PUNCT</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="170">If</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="170">SCONJ</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="290">dOgS</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="290">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="410">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="410">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="530">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="530">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="650">logs,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="650">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="770">cats</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="770">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="890">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="890">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1010">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1010">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1130">gnats,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1130">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1250">bears</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1250">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1370">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1370">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1490">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1490">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1610">stairs,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1610">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1730">slugs</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1730">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1850">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1850">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="1970">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="1970">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2090">plugs,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2090">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2210">flies</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2210">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2330">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2330">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2450">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2450">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2570">pies,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2570">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2690">crickets</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2690">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2810">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2810">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="2930">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="2930">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3050">tickets,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3050">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3170">moths</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3170">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3290">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3290">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3410">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3410">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3530">cloths,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3530">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3650">leopards</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3650">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3770">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3770">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="3890">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="3890">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4010">shepherds,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4010">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4130">cheetahs</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4130">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4250">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4250">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4370">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4370">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4490">fajitas,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4490">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4610">gnus</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4610">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4730">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4730">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4850">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4850">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="4970">canoes,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="4970">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5090">Pigs</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5090">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5210">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5210">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5330">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5330">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5450">Wigs,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5450">PROPN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5570">boars</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5570">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5690">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5690">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5810">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5810">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="5930">oars,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="5930">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6050">whales</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6050">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6170">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6170">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6290">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6290">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6410">nails,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6410">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6530">dragons</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6530">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6650">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6650">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6770">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6770">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="6890">wagons,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="6890">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7010">mice</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7010">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7130">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7130">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7250">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7250">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7370">ice,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7370">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7490">kittens</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7490">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7610">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7610">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7730">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7730">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7850">mittens,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7850">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="7970">puppies</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="7970">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8090">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8090">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8210">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8210">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8330">guppies,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8330">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8450">crabs</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8450">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8570">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8570">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8690">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8690">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8810">kebabs,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8810">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="8930">poodles</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="8930">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9050">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9050">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9170">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9170">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9290">noodles,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9290">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9410">hornets</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9410">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9530">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9530">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9650">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9650">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9770">cornets,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9770">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="9890">skunks</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="9890">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10010">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10010">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10130">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10130">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10250">trunks,</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10250">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10370">and</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10370">CCONJ</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10490">elephants</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10490">NOUN</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10610">sit</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10610">VERB</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10730">on</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10730">ADP</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10850">smelly</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10850">ADJ</tspan>
+</text>
+
+<text class="displacy-token" fill="currentColor" text-anchor="middle" y="407.0">
+    <tspan class="displacy-word" fill="currentColor" x="10970">pants...”</tspan>
+    <tspan class="displacy-tag" dy="2em" fill="currentColor" x="10970">NOUN</tspan>
+</text>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-0" stroke-width="2px" d="M70,362.0 C70,2.0 10010.0,2.0 10010.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-0" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">punct</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M70,364.0 L62,352.0 78,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-1" stroke-width="2px" d="M190,362.0 C190,242.0 390.0,242.0 390.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-1" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">mark</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M190,364.0 L182,352.0 198,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-2" stroke-width="2px" d="M310,362.0 C310,302.0 385.0,302.0 385.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-2" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M310,364.0 L302,352.0 318,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-3" stroke-width="2px" d="M430,362.0 C430,122.0 880.0,122.0 880.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-3" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M430,364.0 L422,352.0 438,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-4" stroke-width="2px" d="M430,362.0 C430,302.0 505.0,302.0 505.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-4" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M505.0,364.0 L513.0,352.0 497.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-5" stroke-width="2px" d="M550,362.0 C550,302.0 625.0,302.0 625.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-5" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M625.0,364.0 L633.0,352.0 617.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-6" stroke-width="2px" d="M790,362.0 C790,302.0 865.0,302.0 865.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-6" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M790,364.0 L782,352.0 798,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-7" stroke-width="2px" d="M910,362.0 C910,122.0 1360.0,122.0 1360.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-7" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M910,364.0 L902,352.0 918,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-8" stroke-width="2px" d="M910,362.0 C910,302.0 985.0,302.0 985.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-8" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M985.0,364.0 L993.0,352.0 977.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-9" stroke-width="2px" d="M1030,362.0 C1030,302.0 1105.0,302.0 1105.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-9" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1105.0,364.0 L1113.0,352.0 1097.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-10" stroke-width="2px" d="M1270,362.0 C1270,302.0 1345.0,302.0 1345.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-10" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1270,364.0 L1262,352.0 1278,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-11" stroke-width="2px" d="M1390,362.0 C1390,122.0 1840.0,122.0 1840.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-11" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1390,364.0 L1382,352.0 1398,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-12" stroke-width="2px" d="M1390,362.0 C1390,302.0 1465.0,302.0 1465.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-12" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1465.0,364.0 L1473.0,352.0 1457.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-13" stroke-width="2px" d="M1510,362.0 C1510,302.0 1585.0,302.0 1585.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-13" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1585.0,364.0 L1593.0,352.0 1577.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-14" stroke-width="2px" d="M1750,362.0 C1750,302.0 1825.0,302.0 1825.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-14" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1750,364.0 L1742,352.0 1758,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-15" stroke-width="2px" d="M1870,362.0 C1870,122.0 2320.0,122.0 2320.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-15" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1870,364.0 L1862,352.0 1878,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-16" stroke-width="2px" d="M1870,362.0 C1870,302.0 1945.0,302.0 1945.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-16" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M1945.0,364.0 L1953.0,352.0 1937.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-17" stroke-width="2px" d="M1990,362.0 C1990,302.0 2065.0,302.0 2065.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-17" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2065.0,364.0 L2073.0,352.0 2057.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-18" stroke-width="2px" d="M2230,362.0 C2230,302.0 2305.0,302.0 2305.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-18" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2230,364.0 L2222,352.0 2238,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-19" stroke-width="2px" d="M2350,362.0 C2350,122.0 2800.0,122.0 2800.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-19" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2350,364.0 L2342,352.0 2358,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-20" stroke-width="2px" d="M2350,362.0 C2350,302.0 2425.0,302.0 2425.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-20" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2425.0,364.0 L2433.0,352.0 2417.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-21" stroke-width="2px" d="M2470,362.0 C2470,302.0 2545.0,302.0 2545.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-21" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2545.0,364.0 L2553.0,352.0 2537.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-22" stroke-width="2px" d="M2710,362.0 C2710,302.0 2785.0,302.0 2785.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-22" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2710,364.0 L2702,352.0 2718,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-23" stroke-width="2px" d="M2830,362.0 C2830,122.0 3280.0,122.0 3280.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-23" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2830,364.0 L2822,352.0 2838,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-24" stroke-width="2px" d="M2830,362.0 C2830,302.0 2905.0,302.0 2905.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-24" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M2905.0,364.0 L2913.0,352.0 2897.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-25" stroke-width="2px" d="M2950,362.0 C2950,302.0 3025.0,302.0 3025.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-25" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3025.0,364.0 L3033.0,352.0 3017.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-26" stroke-width="2px" d="M3190,362.0 C3190,302.0 3265.0,302.0 3265.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-26" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3190,364.0 L3182,352.0 3198,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-27" stroke-width="2px" d="M3310,362.0 C3310,122.0 3760.0,122.0 3760.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-27" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3310,364.0 L3302,352.0 3318,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-28" stroke-width="2px" d="M3310,362.0 C3310,302.0 3385.0,302.0 3385.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-28" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3385.0,364.0 L3393.0,352.0 3377.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-29" stroke-width="2px" d="M3430,362.0 C3430,302.0 3505.0,302.0 3505.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-29" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3505.0,364.0 L3513.0,352.0 3497.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-30" stroke-width="2px" d="M3670,362.0 C3670,302.0 3745.0,302.0 3745.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-30" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3670,364.0 L3662,352.0 3678,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-31" stroke-width="2px" d="M3790,362.0 C3790,122.0 4240.0,122.0 4240.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-31" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3790,364.0 L3782,352.0 3798,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-32" stroke-width="2px" d="M3790,362.0 C3790,302.0 3865.0,302.0 3865.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-32" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3865.0,364.0 L3873.0,352.0 3857.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-33" stroke-width="2px" d="M3910,362.0 C3910,302.0 3985.0,302.0 3985.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-33" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M3985.0,364.0 L3993.0,352.0 3977.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-34" stroke-width="2px" d="M4150,362.0 C4150,302.0 4225.0,302.0 4225.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-34" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4150,364.0 L4142,352.0 4158,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-35" stroke-width="2px" d="M4270,362.0 C4270,122.0 4720.0,122.0 4720.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-35" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4270,364.0 L4262,352.0 4278,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-36" stroke-width="2px" d="M4270,362.0 C4270,302.0 4345.0,302.0 4345.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-36" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4345.0,364.0 L4353.0,352.0 4337.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-37" stroke-width="2px" d="M4390,362.0 C4390,302.0 4465.0,302.0 4465.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-37" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4465.0,364.0 L4473.0,352.0 4457.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-38" stroke-width="2px" d="M4630,362.0 C4630,302.0 4705.0,302.0 4705.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-38" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4630,364.0 L4622,352.0 4638,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-39" stroke-width="2px" d="M4750,362.0 C4750,122.0 5200.0,122.0 5200.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-39" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4750,364.0 L4742,352.0 4758,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-40" stroke-width="2px" d="M4750,362.0 C4750,302.0 4825.0,302.0 4825.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-40" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4825.0,364.0 L4833.0,352.0 4817.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-41" stroke-width="2px" d="M4870,362.0 C4870,302.0 4945.0,302.0 4945.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-41" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M4945.0,364.0 L4953.0,352.0 4937.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-42" stroke-width="2px" d="M5110,362.0 C5110,302.0 5185.0,302.0 5185.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-42" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5110,364.0 L5102,352.0 5118,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-43" stroke-width="2px" d="M5230,362.0 C5230,122.0 5680.0,122.0 5680.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-43" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5230,364.0 L5222,352.0 5238,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-44" stroke-width="2px" d="M5230,362.0 C5230,302.0 5305.0,302.0 5305.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-44" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5305.0,364.0 L5313.0,352.0 5297.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-45" stroke-width="2px" d="M5350,362.0 C5350,302.0 5425.0,302.0 5425.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-45" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5425.0,364.0 L5433.0,352.0 5417.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-46" stroke-width="2px" d="M5590,362.0 C5590,302.0 5665.0,302.0 5665.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-46" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5590,364.0 L5582,352.0 5598,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-47" stroke-width="2px" d="M5710,362.0 C5710,122.0 6160.0,122.0 6160.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-47" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5710,364.0 L5702,352.0 5718,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-48" stroke-width="2px" d="M5710,362.0 C5710,302.0 5785.0,302.0 5785.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-48" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5785.0,364.0 L5793.0,352.0 5777.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-49" stroke-width="2px" d="M5830,362.0 C5830,302.0 5905.0,302.0 5905.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-49" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M5905.0,364.0 L5913.0,352.0 5897.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-50" stroke-width="2px" d="M6070,362.0 C6070,302.0 6145.0,302.0 6145.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-50" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6070,364.0 L6062,352.0 6078,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-51" stroke-width="2px" d="M6190,362.0 C6190,122.0 6640.0,122.0 6640.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-51" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6190,364.0 L6182,352.0 6198,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-52" stroke-width="2px" d="M6190,362.0 C6190,302.0 6265.0,302.0 6265.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-52" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6265.0,364.0 L6273.0,352.0 6257.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-53" stroke-width="2px" d="M6310,362.0 C6310,302.0 6385.0,302.0 6385.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-53" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6385.0,364.0 L6393.0,352.0 6377.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-54" stroke-width="2px" d="M6550,362.0 C6550,302.0 6625.0,302.0 6625.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-54" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6550,364.0 L6542,352.0 6558,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-55" stroke-width="2px" d="M6670,362.0 C6670,122.0 7120.0,122.0 7120.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-55" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6670,364.0 L6662,352.0 6678,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-56" stroke-width="2px" d="M6670,362.0 C6670,302.0 6745.0,302.0 6745.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-56" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6745.0,364.0 L6753.0,352.0 6737.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-57" stroke-width="2px" d="M6790,362.0 C6790,302.0 6865.0,302.0 6865.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-57" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M6865.0,364.0 L6873.0,352.0 6857.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-58" stroke-width="2px" d="M7030,362.0 C7030,302.0 7105.0,302.0 7105.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-58" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7030,364.0 L7022,352.0 7038,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-59" stroke-width="2px" d="M7150,362.0 C7150,122.0 7600.0,122.0 7600.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-59" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7150,364.0 L7142,352.0 7158,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-60" stroke-width="2px" d="M7150,362.0 C7150,302.0 7225.0,302.0 7225.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-60" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7225.0,364.0 L7233.0,352.0 7217.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-61" stroke-width="2px" d="M7270,362.0 C7270,302.0 7345.0,302.0 7345.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-61" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7345.0,364.0 L7353.0,352.0 7337.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-62" stroke-width="2px" d="M7510,362.0 C7510,302.0 7585.0,302.0 7585.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-62" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7510,364.0 L7502,352.0 7518,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-63" stroke-width="2px" d="M7630,362.0 C7630,122.0 8080.0,122.0 8080.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-63" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7630,364.0 L7622,352.0 7638,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-64" stroke-width="2px" d="M7630,362.0 C7630,302.0 7705.0,302.0 7705.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-64" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7705.0,364.0 L7713.0,352.0 7697.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-65" stroke-width="2px" d="M7750,362.0 C7750,302.0 7825.0,302.0 7825.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-65" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7825.0,364.0 L7833.0,352.0 7817.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-66" stroke-width="2px" d="M7990,362.0 C7990,302.0 8065.0,302.0 8065.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-66" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M7990,364.0 L7982,352.0 7998,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-67" stroke-width="2px" d="M8110,362.0 C8110,122.0 8560.0,122.0 8560.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-67" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8110,364.0 L8102,352.0 8118,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-68" stroke-width="2px" d="M8110,362.0 C8110,302.0 8185.0,302.0 8185.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-68" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8185.0,364.0 L8193.0,352.0 8177.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-69" stroke-width="2px" d="M8230,362.0 C8230,302.0 8305.0,302.0 8305.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-69" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8305.0,364.0 L8313.0,352.0 8297.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-70" stroke-width="2px" d="M8470,362.0 C8470,302.0 8545.0,302.0 8545.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-70" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8470,364.0 L8462,352.0 8478,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-71" stroke-width="2px" d="M8590,362.0 C8590,122.0 9040.0,122.0 9040.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-71" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8590,364.0 L8582,352.0 8598,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-72" stroke-width="2px" d="M8590,362.0 C8590,302.0 8665.0,302.0 8665.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-72" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8665.0,364.0 L8673.0,352.0 8657.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-73" stroke-width="2px" d="M8710,362.0 C8710,302.0 8785.0,302.0 8785.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-73" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8785.0,364.0 L8793.0,352.0 8777.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-74" stroke-width="2px" d="M8950,362.0 C8950,302.0 9025.0,302.0 9025.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-74" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M8950,364.0 L8942,352.0 8958,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-75" stroke-width="2px" d="M9070,362.0 C9070,122.0 9520.0,122.0 9520.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-75" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">advcl</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9070,364.0 L9062,352.0 9078,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-76" stroke-width="2px" d="M9070,362.0 C9070,302.0 9145.0,302.0 9145.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-76" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9145.0,364.0 L9153.0,352.0 9137.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-77" stroke-width="2px" d="M9190,362.0 C9190,302.0 9265.0,302.0 9265.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-77" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9265.0,364.0 L9273.0,352.0 9257.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-78" stroke-width="2px" d="M9430,362.0 C9430,302.0 9505.0,302.0 9505.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-78" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9430,364.0 L9422,352.0 9438,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-79" stroke-width="2px" d="M9550,362.0 C9550,122.0 10000.0,122.0 10000.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-79" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">ccomp</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9550,364.0 L9542,352.0 9558,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-80" stroke-width="2px" d="M9550,362.0 C9550,302.0 9625.0,302.0 9625.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-80" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9625.0,364.0 L9633.0,352.0 9617.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-81" stroke-width="2px" d="M9670,362.0 C9670,302.0 9745.0,302.0 9745.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-81" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9745.0,364.0 L9753.0,352.0 9737.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-82" stroke-width="2px" d="M9910,362.0 C9910,302.0 9985.0,302.0 9985.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-82" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M9910,364.0 L9902,352.0 9918,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-83" stroke-width="2px" d="M10030,362.0 C10030,302.0 10105.0,302.0 10105.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-83" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10105.0,364.0 L10113.0,352.0 10097.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-84" stroke-width="2px" d="M10150,362.0 C10150,302.0 10225.0,302.0 10225.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-84" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10225.0,364.0 L10233.0,352.0 10217.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-85" stroke-width="2px" d="M10030,362.0 C10030,182.0 10355.0,182.0 10355.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-85" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">cc</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10355.0,364.0 L10363.0,352.0 10347.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-86" stroke-width="2px" d="M10510,362.0 C10510,302.0 10585.0,302.0 10585.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-86" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">nsubj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10510,364.0 L10502,352.0 10518,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-87" stroke-width="2px" d="M10030,362.0 C10030,62.0 10605.0,62.0 10605.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-87" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">conj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10605.0,364.0 L10613.0,352.0 10597.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-88" stroke-width="2px" d="M10630,362.0 C10630,302.0 10705.0,302.0 10705.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-88" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">prep</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10705.0,364.0 L10713.0,352.0 10697.0,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-89" stroke-width="2px" d="M10870,362.0 C10870,302.0 10945.0,302.0 10945.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-89" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">amod</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10870,364.0 L10862,352.0 10878,352.0" fill="currentColor"/>
+</g>
+
+<g class="displacy-arrow">
+    <path class="displacy-arc" id="arrow-6ac30e0d202d4f67a9c49eb69d063010-0-90" stroke-width="2px" d="M10750,362.0 C10750,242.0 10950.0,242.0 10950.0,362.0" fill="none" stroke="currentColor"/>
+    <text dy="1.25em" style="font-size: 0.8em; letter-spacing: 1px">
+        <textPath xlink:href="#arrow-6ac30e0d202d4f67a9c49eb69d063010-0-90" class="displacy-label" startOffset="50%" side="left" fill="currentColor" text-anchor="middle">pobj</textPath>
+    </text>
+    <path class="displacy-arrowhead" d="M10950.0,364.0 L10958.0,352.0 10942.0,352.0" fill="currentColor"/>
+</g>
+</svg>

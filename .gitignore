@@ -1,2 +1,7 @@
 *key.txt
 *env
+data
+*.bak
+.idea/*
+.ipynb_checkpoints/*
+*.pyc

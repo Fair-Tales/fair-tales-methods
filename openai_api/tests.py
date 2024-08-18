@@ -1,5 +1,6 @@
 import pandas as pd
-
+import json
+from .utilities import *
 
 def build_test_data(book_df):
     return {
@@ -214,3 +215,58 @@ def build_test_data(book_df):
             }
         }
     }
+
+
+def run_task_1_test_i(test_id, test_data, completion, verbose=False):
+    response = json.loads(completion.choices[0].message.content)
+    correct_speech_sections = test_data['task_1_responses'][test_id]['speech_sections']
+
+    try:
+        assert len(response['speech_sections']) == len(correct_speech_sections)
+    except AssertionError:
+        print(f"Failed test: speech section lists are different lengths.")
+        if verbose:
+            print(response['speech_sections'])
+            print(correct_speech_sections)
+
+    test_elemtents = {
+        'speaker': {
+            'case_sensitive': False,
+            'remove_leading_the': True
+        },
+        'recipient': {
+            'case_sensitive': False,
+            'remove_leading_the': True
+        },
+        'speech_text': {
+            'case_sensitive': True,
+            'remove_leading_the': False
+        },
+    }
+
+    for correct_section, section in zip(correct_speech_sections, response['speech_sections']):
+        pass_flag = True
+
+        try:
+            assert section['speech_section_id'] == correct_section['speech_section_id']
+        except AssertionError:
+            print(f"Failed test: speech section_id not equal.")
+            if verbose:
+                print(correct_section)
+                print(section)
+
+        for element in test_elemtents.keys():
+            try:
+                assert compare_strings(
+                    correct_section[element],
+                    section[element],
+                    _case_sensitive=test_elemtents[element]['case_sensitive'],
+                    _remove_leading_the=test_elemtents[element]['remove_leading_the']
+                )
+            except AssertionError:
+                print(f"Failed {element} test for section: {section}")
+                if verbose:
+                    print(correct_section[element])
+                pass_flag = False
+
+    return pass_flag

@@ -1,8 +1,7 @@
 import json
 import pandas as pd
 
-def build_example_data():
-    return {
+example_data = {
         'task_1': {
             'example_input_1': {
                 'full_text': '\nBob saw an animal just like a horse. “That’s a\ndonkey,” said Alice.\n“Horses have got longer legs.” \n The donkey realy was quite short and said it definitely wasn\'t a horse. \n“Cool! I\'ve never seen a donkey before.” shouted Bob.'

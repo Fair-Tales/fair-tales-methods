@@ -94,8 +94,8 @@ def get_task_3_prompt_string(task_2_response, characters, aliases, meta_characte
         and to store the matched name as new fileds called speaker_matched and recipient_matched in the JSON ouput.
 
         Here is a list of character names: {character_list}
-        If you find the speaker or recipient in this list (or a close enough match, including typos), please
-        use the found name as the match value.
+        If you find the speaker or recipient in this list (or a close enough match case-insensitive, including typos), 
+        please use the found name as the match value.
         If there is no match in the list, look for the name in the 'alias' column of the following
         csv lookup table: {alias_csv}
         If you find the name in the 'alias' column, take the corresponding value from the 'character' column

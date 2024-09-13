@@ -1,6 +1,7 @@
 from .schemas import *
 from .examples import example_data
 
+
 def get_task_1_prompt_string(data):
     example_input_1 = example_data['task_1']['example_input_1']
     example_output_1 = example_data['task_1']['example_output_1']
@@ -58,6 +59,7 @@ def get_task_2_prompt_string(task_1_response):
         Remove all speech marks and add full stops where needed, otherwise produce all punctuation as it is written. Replace each newline character '\n' with a sinlge space.   
         Provide your response in JSON.
     """
+
 
 def get_task_2_system_prompt():
 

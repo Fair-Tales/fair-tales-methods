@@ -76,7 +76,7 @@ example_data = {
                 {
                     'speech_sections': [
                         {
-                            "speaker": "Alice",
+                            "spe                                                                                                                                                                                                                                                                                    aker": "Alice",
                             "recipient": "Bob",
                             "spoken_words_only": 'That’s a donkey. Horses have got longer legs.',
                             "speech_section_id": 0

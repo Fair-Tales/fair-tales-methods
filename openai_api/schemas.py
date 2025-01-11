@@ -1,6 +1,8 @@
 """
 Input and output (response) JSON schemas for prompts.
 """
+
+
 def build_task_1_response_schema():
 
     schema_dict = {

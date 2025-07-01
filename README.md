@@ -5,7 +5,6 @@ This methodology showcases the use of GPT-4o for complex NLP via robust iterativ
 
 We would like to draw your attention to the following key files:
 * The script that was used to produce the results (language analysis) included in the book chapter can be found [here](https://github.com/Fair-Tales/fair-tales-methods/blob/main/vocabulary_analysis.ipynb)
-* The summary statistics for the character database were produced by [this](https://github.com/Fair-Tales/fair-tales-methods/blob/main/summary_stats_final.ipynb) script.
 * The prompt strings, data schemas and unit test cases are located in the [openai_api](https://github.com/Fair-Tales/fair-tales-methods/tree/main/openai_api) drectory.
 * The scripts that were used to collect manual validation input for the sentence detection and general GPT-4o results are [here](https://github.com/Fair-Tales/fair-tales-methods/blob/main/speech_detection_validation_gpt4o.ipynb!) and [here](https://github.com/Fair-Tales/fair-tales-methods/blob/main/manual_validation_gpt4o.ipynb!) respectively.
 * The script for running the full set of tasks with GPT-4o across the entrie corpus is provided [here](https://github.com/Fair-Tales/fair-tales-methods/blob/main/run_gpt4o_tasks_final.ipynb!). 
